@@ -1,0 +1,8 @@
+Client numéro 1001
+
+		No de produit	Qte	Prix	Total (tx)
+Produit #1	RTU00001	1	100.0	114.98
+
+Total avant rabais : 114.98
+Rabais : 0.00
+Total : 114.98

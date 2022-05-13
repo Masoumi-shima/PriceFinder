@@ -1,0 +1,8 @@
+Client numéro 5009
+
+		No de produit	Qte	Prix	Total (tx)
+Produit #1	RTU00009	90	100.0	10347.75
+
+Total avant rabais : 10347.75
+Rabais : 0.00
+Total : 10347.75

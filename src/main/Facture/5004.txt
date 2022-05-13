@@ -1,0 +1,8 @@
+Client numéro 5004
+
+		No de produit	Qte	Prix	Total (tx)
+Produit #1	RTU00004	11	100.0	1264.73
+
+Total avant rabais : 1264.73
+Rabais : 0.00
+Total : 1264.73

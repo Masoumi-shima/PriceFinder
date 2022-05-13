@@ -1,0 +1,8 @@
+Client numéro 1006
+
+		No de produit	Qte	Prix	Total (tx)
+Produit #1	RTU00006	43	100.0	4943.93
+
+Total avant rabais : 4943.93
+Rabais : 0.00
+Total : 4943.93
